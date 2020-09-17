@@ -45,3 +45,27 @@ In the units following, you'll learn many intermediate computer science topics n
 - Python installed
 - Python extension installed
 - Basic knowledge of Python
+
+# Count the number of Moon rocks by type using Python
+
+### Introduction
+
+You're a geologist working at NASA. You're responsible foranalyzing the different types of rocks foudn by the Artemis Rover and producing a report. The rover will send a text document of the different types of rocks, which you'll need to parse through. Your friend tells you ho the Python programming language can make the task much easier than doing it by hand, and more automated.
+
+In this module, yu'll build a simple notebook with Python to complete the task. Along the way, you'll apply a variety of introuctory computer science topics. YOu'll use Visual Studio Code with the Python extension, to run the code and use pre-built functions that will help you complete this exercise.
+
+### Learning objectives
+
+In the unties following, you'll learn many computer science topics and use them to create an end-to-end solution. Along the way, you'll learn:
+
+- How to write variables in the context of a program
+- How to use prebuil functions to read data from a text file
+- How to create a function and call it in the context of a program
+- How to write conditionals and loops in the context of a program
+
+### Prerequisites
+
+- Visual studio Code installed
+- Python extension installed in Visual Studio Code
+- Python and Jupyter Notebooks installed
+- Knowledge about introductory Python topics
